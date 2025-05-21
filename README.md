@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tony656
-- 👀 I’m interested in ...hacking
+- 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...codes
-- 💞️ I’m looking to collaborate on ...helping to become a best hacker
+- 💞️ I’m looking to collaborate on ...helping to become a best programmer
 - 📫 How to reach me ...+255627781324
 
 <!---
